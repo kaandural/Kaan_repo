@@ -8,20 +8,4 @@ It took us a while to fit the data into a spatial map.
 Please check the Berlin_Crime notebook for more information about the project. 
 
 
- _________        .---"""      """---.              
-:______.-':      :  .--------------.  :             
-| ______  |      | :                : |             
-|:______B:|      | |  Open For      | |             
-|:______B:|      | |                | |             
-|:______B:|      | |  Job Offers!   | |             
-|         |      | |                | |             
-|:_____:  |      | |                | |             
-|    ==   |      | :                : |             
-|       O |      :  '--------------'  :             
-|       o |      :'---...______...---'              
-|       o |-._.-i___/'             \._              
-|'-.____o_|   '-.   '-...______...-'  `-._          
-:_________:      `.____________________   `-.___.-. 
-                 .'.eeeeeeeeeeeeeeeeee.'.      :___:
-            .'.eeeeeeeeeeeeeeeeeeeeee.'.         
-              :____________________________:
+###  I am open to job offers! 
